@@ -1,3 +1,4 @@
+# 👋 Hi
 Welcome to the internal home of **Numeric Machines**. This repository serves as the organization-wide landing page and a resource hub for our development team.
 
 ## 👋 Our Mission
