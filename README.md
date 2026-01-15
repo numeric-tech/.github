@@ -1,7 +1,7 @@
 # 👋 Hi
 Welcome to the internal home of **Numeric Machines**. This repository serves as the organization-wide landing page and a resource hub for our development team.
 
-## 👋 Our Mission
+## 🚀 Our Mission
 We are building the next generation of magical technologies. As a team, we prioritize technical excellence, rapid iteration, and horizontal collaboration.
 
 ## 🛠 Internal Developer Resources
